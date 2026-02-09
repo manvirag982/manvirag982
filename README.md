@@ -2,7 +2,7 @@
 
 I'm Anubhav Gupta, a Software Engineer currently contributing to the platform team (core component ) at [@mindtickle](https://www.mindtickle.com/). Worked on system like Authentication, Platformic rule engine, Search, User, Platfomized Workflow system, Event fan-out systems, CQRS etc.
 
-I like AI and backend software engineering mainly system designing, scalability, distributed systems, and databases. 
+I like AI and backend software engineering mainly system designing, scalability, distributed systems, Mathematics, AI,  databases etc. 
 
 
 <!--Some of my learning repositories: -->
